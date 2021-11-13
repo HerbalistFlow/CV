@@ -1,0 +1,29 @@
+body {
+	font: small/1.6em Verdana, Arial, sans-serif;
+}
+
+header {
+	padding: 25px;
+	margin: 25px;
+}
+
+img {
+	height: 250px;
+}
+
+section.left {
+	padding: 25px;
+	border: thin solid black;
+	margin-left: 25px;
+	width: 15%;
+	position: absolute;
+}
+
+section.right {
+	padding: 25px;
+	border: thin solid black;
+	width: 66.6%;
+	margin-left: 25%;
+	position: relative;
+
+}
